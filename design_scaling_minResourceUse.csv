@@ -1,0 +1,45 @@
+node,scaling_factor
+Syngas Production,1.000000000048745
+Methanol Manufacture,1.0000000000087153
+Steam Cracker,1.0000000000000002
+Hydrodealkylation (THD),0.9999999992493938
+Disproportionation (TDP),1.0000000006643972
+Combustion,0.0
+Metathesis,1.0000000005273926
+Dehydrogenation,1.0000000005273928
+Refinery,1.0000000005273928
+Urea Synthesis,1.0
+SOHIO Process,1.0
+Caprolactam Manufacture,1.0000000000000002
+Cumene Production,1.0
+Hocks Process,1.0
+PE Manufacture,1.0000000000409932
+PVC Manufacture,0.9999999999184566
+VC Production,0.9999999999184566
+PP Manufacture,1.0000000001822036
+Styrene production,1.0000000000000002
+EG Production,1.000000000008081
+PTA Production,1.0000000000622686
+PET Production,0.9999999999801262
+Propylene Oxide Production,1.0
+Neoprene Manufacture,0.0
+Cement Manufacture,0.0
+Electricity,0.0
+Alumina Refining,0.0
+Aluminum Smelting,0.0
+Primary Ingot Casting,0.0
+BF + BOF,0.0
+EAF,0.0
+Sulfuric Acid Production,0.0
+Nitric Acid Production,0.0
+Acetic acid production,1.0000000000000002
+Formaldehyde production,1.0
+Cyclohexane Production,1.0000000000787401
+Adipic Acid Production,1.0
+Adipic Acid distribution,1.0000000000000002
+PE Distribution,1.0000000000409932
+PVC Distribution,0.9999999999184567
+PP Distribution,1.0000000001822036
+PET Distribution,1.0
+PTA Distribution,0.9999999996730768
+Catalytic Reformer,1.0
