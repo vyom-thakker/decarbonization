@@ -1,5 +1,5 @@
 using JuMP
-Fusing CSV
+using CSV
 using LinearAlgebra
 using DataFrames
 using BARON
@@ -35,6 +35,5 @@ s,f,obj=opt_decarb()
 
 res_f=DataFrame(pdt=product_val, final_demand=f)
 res_s=DataFrame(node=nodes_val, scaling_factor=s)
-
 
 CSV.write("./design_scaling.csv",res_s)
